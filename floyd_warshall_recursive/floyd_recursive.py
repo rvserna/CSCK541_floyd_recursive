@@ -39,5 +39,7 @@ def floyd_warshall(graph):
                 graph[a][z] = min(graph[a][z], graph[a][m] + graph[m][z])
     return graph
 
-# Print the updated graph.
+# Print the updated graph which
+# includes the shortest distance between
+# all pairs of nodes.
 print(floyd_warshall(graph))
