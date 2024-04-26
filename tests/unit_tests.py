@@ -5,7 +5,7 @@
 import unittest
 import sys
 # Import recursive algorithm and test cases
-from CSCK541_floyd_recursive import floyd_recursive
+from CSCK541_floyd_recursive.floyd_warshall_recursive import floyd_recursive
 from test_cases import (testCaseA,
                         testOutputA, testCaseB, testOutputB)
 

@@ -5,7 +5,7 @@
 import sys
 import time
 # Import each of the algorithms
-from CSCK541_floyd_recursive import floyd_recursive
+from CSCK541_floyd_recursive.floyd_warshall_recursive import floyd_recursive
 from CSCK541_floyd_recursive.floyd_algorithms_for_comparison import floyd_geeks_for_geeks
 from CSCK541_floyd_recursive.floyd_algorithms_for_comparison import floyd_warshall_imperative
 # Create a comparison function that
