@@ -1,13 +1,12 @@
 ''' Imperative version of Floyd-Warshall algorithm.
     This algorithm was the provided
-    example for the CSCK541 mid-module
+    example for the UoL CSCK541 mid-module
     assignment. This algorithm will be
     used for comparison purposes.
     It is available at:
     https://liverpool-online-study.com/pluginfile.php/228862/mod_assign/intro/FloydAlgorithm%20-%20Imperative.pdf?time=1712139479871'''
 
 import itertools
-from itertools import product
 import sys
 
 NO_PATH = sys.maxsize
