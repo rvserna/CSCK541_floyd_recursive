@@ -10,7 +10,7 @@ The requirements to run the algorithm can be found in [requirements.txt](https:/
 
 # Usage
 
-The [floyd_recursive](https://github.com/rvserna/CSCK541_floyd_recursive/blob/main/floyd_recursive.py) algorithm can be used to find the shortest distance for graphs with any number of vertices. The example graph contains 4 vertices.
+The recursive algorithm can be found in [floyd_warshall_recursive](https://github.com/rvserna/CSCK541_floyd_recursive/tree/main/floyd_warshall_recursive). This algorithm can be used to find the shortest distance for graphs with any number of vertices. The example graph contains 4 vertices.
 
 # Testing
 
