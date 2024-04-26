@@ -12,7 +12,6 @@ V = 4
 # enough value. This value will be
 # used for vertices not connected to each other
 INF = 99999
-
 # Solves all pair shortest path
 # via Floyd Warshall Algorithm
 
